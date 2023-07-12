@@ -1,0 +1,19 @@
+{
+    "name": "vesen/vesen-sneat",
+    "description": "This is a vesen sneat template",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vesen\\VesenSneat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vesen Computing Solutions",
+            "email": "info@vesencomputing.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
